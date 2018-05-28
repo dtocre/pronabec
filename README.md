@@ -2,11 +2,11 @@
 
 Ranking:
 - Trome (check)
-- Ojo
-- El Comercio (semicheck)
-- Peru.21 (semicheck)
-- El Popular
-- Correo
+- Ojo (check)
+- El Comercio (check)
+- Peru.21 (check)
+- El Popular (buscador de Google, desordenado)
+- Correo (check)
 - La Republica
 - Exitosa
 - Publimetro
@@ -17,11 +17,14 @@ Ranking:
 ////////////////////////////////////////////////////////////////////////
 
 Notas:
-- Anadir link de noticia
+- Anadir link de noticia (check)
 - Chequear resumenes repetidos
-- Chequear contenido en blanco
+- Chequear contenido en blanco (check)
 - Filtrar palabras no deseadas
 - Falta buscar para Beca 18
+- Agrupar todo en un script
+- Automatizar ciertos imputs, como numero de paginas
+- Pensar en ordenar por fechas
 
 ***********************************************************************
 
@@ -30,3 +33,7 @@ Notas:
 **TROME: Solo hay una noticia sobre Pronabec y Beca 18. Resultado en archivo eltrome.xlsx
 
 **PERU.21: Resultados en archivo peru21.csv
+
+**OJO: Resultados en archivo ojo.csv
+
+**CORREO: Resultados en archivo correo.csv
