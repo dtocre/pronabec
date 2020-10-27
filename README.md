@@ -1,12 +1,12 @@
-*Objetivo: Bajar noticias de periodos top 10 sobre Pronabec y Beca 18. Al final, intentar meter todo en un programa base
+*Objetive: Identify news containing information about "PRONABEC" within the top 10 newspapers in Peru.
 
 Ranking:
-- Trome (check)
-- Ojo (check)
-- El Comercio (check)
-- Peru.21 (check)
-- El Popular (buscador de Google, desordenado)
-- Correo (check)
+- Trome
+- Ojo
+- El Comercio
+- Peru.21
+- El Popular (Google search, messy)
+- Correo
 - La Republica
 - Exitosa
 - Publimetro
@@ -16,24 +16,21 @@ Ranking:
 
 ////////////////////////////////////////////////////////////////////////
 
-Notas:
-- Anadir link de noticia (check)
-- Chequear resumenes repetidos
-- Chequear contenido en blanco (check)
-- Filtrar palabras no deseadas
-- Falta buscar para Beca 18
-- Agrupar todo en un script
-- Automatizar ciertos imputs, como numero de paginas
-- Pensar en ordenar por fechas
+Notes:
+- Check repeated summaries
+- Filter unwanted words
+- Group all processes into one script
+- Automatize some imputs, as page numbers
+- Ordering by date?
 
 ***********************************************************************
 
-**EL COMERCIO: Resultados en archivo elcomercio.csv
+**EL COMERCIO: Results in elcomercio.csv
 
-**TROME: Solo hay una noticia sobre Pronabec y Beca 18. Resultado en archivo eltrome.xlsx
+**TROME: Onlyb one news about Pronabec. Results in eltrome.xlsx
 
-**PERU.21: Resultados en archivo peru21.csv
+**PERU.21: Results in peru21.csv
 
-**OJO: Resultados en archivo ojo.csv
+**OJO: Results in ojo.csv
 
-**CORREO: Resultados en archivo correo.csv
+**CORREO: Results in correo.csv
